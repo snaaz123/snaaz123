@@ -71,13 +71,6 @@
 
 ---
 
-### Desktop Environment:
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png"></code>
-
----
-
 
 <p display="flex" align="center">
 <img alt="Najrin Shah's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaaz123&hide=smalltalk&theme=algolia&layout=compact" width="400" />
