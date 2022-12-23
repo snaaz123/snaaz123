@@ -86,7 +86,7 @@
 </p>
 
 <p display="flex" align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=snaaz123&theme=gruvbox&hide_border=true&area=true" height="200px" width="70%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snaaz123&show_icons=true&locale=en" height="200px" width="70%"/>
 <p>
 
 
