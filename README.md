@@ -1,95 +1,29 @@
+ <h1 align="center">Hi 👋, I'm Najrin Shah</h1>
+<h3 align="center">Aspiring web developer </h3>
+ <img src="https://www.digitalsolutionservices.com/img/services/website1.gif"  width="400" align="right" alt="Coding" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snaaz123&label=Profile%20views&color=0e75b6&style=flat" alt="snaaz123" /> </p>
+
+- 🌱 I’m currently learning *MERN*
+
+- 💬 Ask me about *MERN*
+
+- 📫 How to reach me *shahnajrin@gmail.com*
+- ⚡ Fun fact *I can center "DIV" without using margin-auto*
+- <h3><a href="https://snaaz123.github.io/" target="blank">Portfolio 😎</h3>
+-  <h3><a href="https://drive.google.com/file/d/1-ySbYAzy2x-HRJgWV-thioGRaLwAh1lK/view?usp=share_link" target="blank">Resume 😎</h3>
 
 
-### Hi there, I'm Najrin Shah 👋  
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="231">
-
-  <a href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50"></a>
-
-<a href="">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="Najrin-Shah" />
-</a>
-<a title="shahnajrin@gmail.com" href="shahnajrin@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
-</a>
-<a href="https://www.linkedin.com/in/najrin-shah/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/najrin-shah/" />
-</a>
-
----
-
-## I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning MERN Stack at Masai School.
-- 🌏 Looking to solve real-world problems.
-- 💻 I'm passionate about making creative websites.
-- ⚡ Fact: I love to travel.
-- 💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs, Git, Chakra Ui, Npm
- 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>i love networking with people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
----
-
-
- 
-<!----------------------------------- Profile View Section ------------------------------------>
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://github.com/snaaz123">
-        <img src="https://komarev.com/ghpvc/?username=snaaz123&label=Profile%20views&color=0e75b6&style=flat" alt="najrin-shah" />
-    </a>
-<!--     <a href="https://github.com/snaaz123?tab=followers">
-        <img src="https://img.shields.io/github/followers/snaaz123t?label=Followers&style=social" alt="followers-count">
-    </a> -->
-</p>
- 
-
-
-<!----------------------------------- Tech Stack Section ------------------------------------>
-
-<h2><i>Tech Stack</i></h2>
-
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-  <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
- <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
- <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-</p>
-<br>
-
-
----
-
-
-<p display="flex" align="center">
-<img alt="Najrin Shah's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaaz123&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-
-
-
-  <a href="https://github.com/snaaz123?tab=repositories">
-    <img width="400" height="auto"  alt="Durgashankar Pal's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=snaaz123&show_icons=true&theme=algolia&count_private=true" />
-  </a>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snaaz123&hide=smalltalk&theme=algolia&layout=compact" alt="snaaz123" />
+<a href="https://www.linkedin.com/in/najrin-shah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/najrin-shah/" height="30" width="40" /></a>
 </p>
 
-<p display="flex" align="center">
-  <img align="center" src="" height="200px" width="70%"/>
-<p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snaaz123&show_icons=true&locale=en&layout=compact" alt="snaaz123" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snaaz123&show_icons=true&locale=en" alt="snaaz123" /></p>
 
-
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snaaz123&" alt="snaaz123" /></p>
