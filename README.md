@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Najrin Shah</h1>
 <h3 align="center">Aspiring web developer </h3>
- <img src="https://www.digitalsolutionservices.com/img/services/website1.gif"  width="400" align="right" alt="Coding" >
+ <img src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif"  width="400" align="right" alt="Coding" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snaaz123&label=Profile%20views&color=0e75b6&style=flat" alt="snaaz123" /> </p>
 
